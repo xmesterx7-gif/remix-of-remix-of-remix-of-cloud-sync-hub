@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bik biz Boss</string>
+    <string name="title_activity_main">Bik biz Boss</string>
+    <string name="package_name">com.bikebiboss.app</string>
+    <string name="custom_url_scheme">com.bikebiboss.app</string>
+</resources>
